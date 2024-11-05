@@ -37,17 +37,6 @@ Follow the [Raspberry Pi setup guide](deploy_guides/Raspberry_Pi_Guide.md) to in
 ### Windows
 Follow the instructions in the [Windows TFLite guide](deploy_guides/Windows_TFLite_Guide.md) to set up TFLite Runtime on your Windows PC using Anaconda!
 
-### macOS
-Still to come!
-
-### Linux
-Still to come!
-
-### Android
-Still to come!
-
-### Embedded Devices
-Still to come!
 
 ## Step 3. Run TensorFlow Lite Models!
 There are four Python scripts to run the TensorFlow Lite object detection model on an image, video, web stream, or webcam feed. The scripts are based off the label_image.py example given in the [TensorFlow Lite examples GitHub repository](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/lite/examples/python/label_image.py).
